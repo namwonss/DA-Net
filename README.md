@@ -8,6 +8,7 @@ IEEE Access, 2024
 <br/> This is the **official code** for the paper DA-Net: Dual Attention Network for Haze Removal in Remote Sensing Image (accepted to IEEE Access 2024). <br/>
 
 
+<br/> We will soon be releasing the DA-Net code. <br/>
 
 
 ```latex
