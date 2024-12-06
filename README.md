@@ -79,7 +79,7 @@ After completing setups, you can run the inference using the command:
 
 ```bash
 python demo.py
-
+```
 
 
 # Citation
