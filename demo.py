@@ -122,7 +122,7 @@ def test(test_loader, network, result_dir=None):
         print('Test: [{0}]\t'
               'PSNR: {psnr.val:.02f} ({psnr.avg:.02f})\t'
               'SSIM: {ssim.val:.03f} ({ssim.avg:.03f})\t'
-              'CIEDE2000: {ciede.val:.03f} ({ciede.avg:.03f})'
+              'CIEDE: {ciede.val:.03f} ({ciede.avg:.03f})'
               .format(i, psnr=PSNR, ssim=SSIM, ciede=CIEDE))
 
         print('Time: ', intermediate_time, 'sec')
