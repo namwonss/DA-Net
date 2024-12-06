@@ -28,15 +28,15 @@ IEEE Access, 2024
 Haze removal in remote sensing images is essential for practical applications in various fields such as weather forecasting, monitoring, mineral exploration and disaster management. The previous deep learning models make use of large convolutional kernel and attention mechanisms for efficient dehazing. However, it has drawbacks such as the loss of image details and low performance. In this paper, we shall present a new dual attention network, called DA-Net, for dehazing remote sensing images which achieves better dehazing performance while reducing model complexity sharply by exploiting a novel dual attention block where two modules, channel-spatial attention and parallel attention are serially connected. We propose a new architecture for parallel attention which achieves better dehazing performance by concatenating three different attention mechanisms in parallel: global channel attention, local channel attention and spatial attention. Moreover, we shall show that the concatenation of channel-spatial attention to parallel attention module enables detecting haze component information more accurately while reducing the model complexity proportional to the number of parameters by combining the channel and spatial information generated respectively from two different channel and spatial branches. Our experimental results show that DA-Net achieves much better performance for both synthetic and real image data sets compared to the other dehazing models in terms of quantitative and qualitative evaluations.
 
 # Requirements
-timm
-torchinfo
-numpy
-pillow
-[pytorch](https://pytorch.org/get-started/locally/)
-scikit-image
-tqdm
-ptflops
-pytorch-msssim
+timm <br/>
+torchinfo <br/>
+numpy <br/>
+pillow <br/>
+[pytorch](https://pytorch.org/get-started/locally/) <br/>
+scikit-image <br/>
+tqdm <br/>
+ptflops <br/>
+pytorch-msssim <br/>
 
 
 
