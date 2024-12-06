@@ -8,7 +8,7 @@ IEEE Access, 2024
 <br/> This is the **official implementation** of DA-Net: Dual Attention Network for Haze Removal in Remote Sensing Image (accepted by IEEE Access). <br/>
 
 
-<br/> We will soon be releasing the DA-Net code. <br/>
+<br/> This code serves as a demo of DA-Net in our manuscript, offering a clear and organized workflow for haze removal in remote sensing images (RSI). <br/>
 
 
 # Dataset path
