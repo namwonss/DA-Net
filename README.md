@@ -10,6 +10,20 @@ IEEE Access, 2024
 
 <br/> This code serves as a demo of DA-Net in our manuscript, offering a clear and organized workflow for haze removal in remote sensing images (RSI). <br/>
 
+<table>
+  <tr>
+    <td><img src="img/clean.png" alt="Clean RSI"">
+    <p>Clean RSI</p>
+    </td>
+    <td><img src="img/haze.png" alt="Haze">
+    <p>Haze</p>
+    </td>
+    <td><img src="img/da-net.png" alt="Dehazing result (DA-Net)">
+    <p>Dehazing result (DA-Net)</p>
+    </td>
+  </tr>
+</table>
+
 
 # Dataset path
 The dataset path should be organized as follows.
