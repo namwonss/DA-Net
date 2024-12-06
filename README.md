@@ -70,10 +70,23 @@ dataset/
 
 
 # Running
+- Install Python and necessary libraries (e.g., PyTorch, NumPy).<br/>
+- Make sure you have the pre-trained model weights (`.pk` file) ready.<br/>
+
+## Demo (Inference)
+
+After completing setups, you can run the inference using the command:
+
+```bash
+python demo.py
 
 
 
+# Citation
 
+Please cite our paper in your manuscript if it helps your research.
+
+Bibtex:
 
 ```latex
 @article{kim2024net,
