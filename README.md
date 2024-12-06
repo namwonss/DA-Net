@@ -75,7 +75,7 @@ dataset/
 
 ## Demo (Inference)
 
-After completing setups, you can run the inference using the command:
+After completing the settings, you can run the demo using the command:
 
 ```bash
 python demo.py
