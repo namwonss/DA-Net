@@ -71,7 +71,7 @@ dataset/
 <br/><br/>
 
 
-# Datasets
+# Dataset
 
 ## Synthetic Image Data
 
