@@ -71,6 +71,27 @@ dataset/
 <br/><br/>
 
 
+## Datasets
+
+### Synthetic Image Data
+
+**Remote Sensing Image Dehazing Dataset (RSID)**  
+[GitHub: chi-kaichen/Trinity-Net](https://github.com/chi-kaichen/Trinity-Net)  
+
+**Remote Sensing Image Cloud Removing Dataset (RICE)**  
+[GitHub: BUPTLdy/RICE_DATASET](https://github.com/BUPTLdy/RICE_DATASET)  
+  This dataset includes synthetic remote sensing images affected by cloud cover. It is used to train and test cloud removal methods.
+
+**SateHaze1k**  
+[Kaggle: haze1k](https://www.kaggle.com/datasets/mohit3430/haze1k)  
+
+### Real Image Data
+
+**Unmanned Aerial Vehicle Images (UAV)**  
+[GitHub: Lyndo125/Real-outdoor-UAV-remote-sensing-hazy-dataset](https://github.com/Lyndo125/Real-outdoor-UAV-remote-sensing-hazy-dataset)  
+
+<br/><br/>
+
 # Running
 * Install Python and necessary libraries (e.g., PyTorch, NumPy).<br/>
 
