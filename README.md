@@ -71,9 +71,9 @@ dataset/
 <br/><br/>
 
 
-## Datasets
+# Datasets
 
-### Synthetic Image Data
+## Synthetic Image Data
 
 **Remote Sensing Image Dehazing Dataset (RSID)**  
 [GitHub: chi-kaichen/Trinity-Net](https://github.com/chi-kaichen/Trinity-Net)  
@@ -85,7 +85,7 @@ dataset/
 **SateHaze1k**  
 [Kaggle: haze1k](https://www.kaggle.com/datasets/mohit3430/haze1k)  
 
-### Real Image Data
+## Real Image Data
 
 **Unmanned Aerial Vehicle Images (UAV)**  
 [GitHub: Lyndo125/Real-outdoor-UAV-remote-sensing-hazy-dataset](https://github.com/Lyndo125/Real-outdoor-UAV-remote-sensing-hazy-dataset)  
