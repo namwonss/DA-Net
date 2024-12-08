@@ -109,7 +109,7 @@ python train.py
 ```bash
 python demo.py
 ```
-<br/>
+
 ### Code Ocean
 Please click on Reproducible Run in Code Ocean. <br/>
 [https://codeocean.com/capsule/3008254/tree](https://codeocean.com/capsule/3008254/tree)
