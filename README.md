@@ -113,8 +113,8 @@ python demo.py
 ### Code Ocean
 Please click on Reproducible Run in Code Ocean. <br/>
 [https://codeocean.com/capsule/3008254/tree](https://codeocean.com/capsule/3008254/tree)
-<br/>
-Code Ocean provides a Python runtime environment to run the DA-Net demo.
+
+<br/> Code Ocean provides a Python runtime environment to run the DA-Net demo.
 
 <br/><br/>
 
