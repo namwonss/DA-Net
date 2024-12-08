@@ -94,7 +94,7 @@ python demo.py
 
 # Citation
 
-Please cite our paper in your manuscript if it helps your research.
+* Please cite our paper in your manuscript if it helps your research.
 
 Bibtex:
 
