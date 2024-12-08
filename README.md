@@ -82,7 +82,7 @@ python train.py
 ```
 <br/>
 ## Demo (Inference)
-- Make sure you have the pre-trained model weights (`.pk` file) ready.<br/>
+- Make sure you have the pre-trained model weights (`.pk` file) ready.
 After completing the settings, you can run the demo using the command:
 
 ```bash
