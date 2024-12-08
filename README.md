@@ -80,7 +80,7 @@ dataset/
 <br/>
 **Remote Sensing Image Cloud Removing Dataset (RICE)**  
 [GitHub: BUPTLdy/RICE_DATASET](https://github.com/BUPTLdy/RICE_DATASET)  
-  This dataset includes synthetic remote sensing images affected by cloud cover. It is used to train and test cloud removal methods.
+
 <br/>
 **SateHaze1k**  
 [Kaggle: haze1k](https://www.kaggle.com/datasets/mohit3430/haze1k)  
