@@ -73,7 +73,6 @@ dataset/
 
 # Running
 - Install Python and necessary libraries (e.g., PyTorch, NumPy).<br/>
-- Make sure you have the pre-trained model weights (`.pk` file) ready.<br/>
 
 ## Training
 After checking `option.py`, you can use the following command to train DA-Net:
@@ -83,7 +82,7 @@ python train.py
 ```
 <br/>
 ## Demo (Inference)
-
+- Make sure you have the pre-trained model weights (`.pk` file) ready.<br/>
 After completing the settings, you can run the demo using the command:
 
 ```bash
