@@ -81,7 +81,7 @@ After checking `option.py`, you can use the following command to train DA-Net:
 ```bash
 python train.py
 ```
-
+<br/>
 ## Demo (Inference)
 
 After completing the settings, you can run the demo using the command:
