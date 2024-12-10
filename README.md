@@ -45,18 +45,18 @@ pytorch-msssim <br/><br/>
 
 ## Synthetic Image Data
 
-**Remote Sensing Image Dehazing Dataset (RSID)**  
+* **Remote Sensing Image Dehazing Dataset (RSID)**  
 [https://github.com/chi-kaichen/Trinity-Net](https://github.com/chi-kaichen/Trinity-Net)  
 
-**Remote Sensing Image Cloud Removing Dataset (RICE)**  
+* **Remote Sensing Image Cloud Removing Dataset (RICE)**  
 [https://github.com/BUPTLdy/RICE_DATASET](https://github.com/BUPTLdy/RICE_DATASET)  
 
-**SateHaze1k**  
+* **SateHaze1k**  
 [https://www.kaggle.com/datasets/mohit3430/haze1k](https://www.kaggle.com/datasets/mohit3430/haze1k)  
 
 ## Real Image Data
 
-**Unmanned Aerial Vehicle Images (UAV)**  
+* **Unmanned Aerial Vehicle Images (UAV)**  
 [https://github.com/Lyndo125/Real-outdoor-UAV-remote-sensing-hazy-dataset](https://github.com/Lyndo125/Real-outdoor-UAV-remote-sensing-hazy-dataset)  
 
 <br/><br/>
