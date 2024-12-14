@@ -30,15 +30,15 @@ Haze removal in remote sensing images is essential for practical applications in
 <br/>
 
 # Requirements
-timm <br/>
-torchinfo <br/>
-numpy <br/>
-pillow <br/>
+[timm](https://anaconda.org/conda-forge/timm) <br/>
+[torchinfo](https://anaconda.org/conda-forge/torchinfo) <br/>
+[numpy](https://anaconda.org/anaconda/numpy) <br/>
+[pillow](https://anaconda.org/anaconda/pillow) <br/>
 [pytorch](https://pytorch.org/get-started/locally/) <br/>
-scikit-image <br/>
-tqdm <br/>
-ptflops <br/>
-pytorch-msssim <br/><br/>
+[scikit-image](https://anaconda.org/anaconda/scikit-image) <br/>
+[tqdm](https://anaconda.org/conda-forge/tqdm) <br/>
+[ptflops](https://pypi.org/project/ptflops/) <br/>
+[pytorch-msssim](https://pypi.org/project/pytorch-msssim/) <br/><br/>
 
 
 # Dataset
