@@ -105,6 +105,7 @@ python train.py
 ## Demo (Inference)
 * Make sure you have the pre-trained model weights (`.pk` file) ready.
 * After completing the settings, you can run the demo using the command:
+* The pre-trained model weights for testing synthetic image data can be found in the `trained_models` directory.
 
 ```bash
 python demo.py
