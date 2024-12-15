@@ -18,7 +18,7 @@ IEEE Access, 2024
     <td><img src="img/haze.png" alt="Haze">
     <p>Haze</p>
     </td>
-    <td><img src="img/da-net.png" alt="Dehazing result (DA-Net)">
+    <td><img src="img/da-net.png" alt="Haze removal result (DA-Net)">
     <p>Dehazing result (DA-Net)</p>
     </td>
   </tr>
