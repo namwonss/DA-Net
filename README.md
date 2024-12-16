@@ -1,5 +1,5 @@
 # [DA-Net: Dual Attention Network for Haze Removal in Remote Sensing Image](https://ieeexplore.ieee.org/abstract/document/10679105)
-**Namwon Kim, Il-Seok Choi, Seong-Soo Han, and Chang-sung Jeong**
+**Namwon Kim, Il-Seok Choi, Seong-Soo Han, and Chang-Sung Jeong**
 <br/>
 IEEE Access, 2024
 <br/>
