@@ -9,7 +9,7 @@ import math
 # DA-Net: Dual Attention Network for Haze Removal in Remote Sensing Image
 # IEEE Access
 # 09/12/2024
-# Namwon Kim (namwon@korea.ac.kr)
+# Namwon Kim (namwon@kaist.ac.kr)
 
 class ChannelBranch(nn.Module):
 	#Channel Branch
